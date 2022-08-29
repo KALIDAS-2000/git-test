@@ -2,3 +2,5 @@ git init
 git status
 git add -A
 git commit -m
+git remote add name
+git remote -v
